@@ -32,11 +32,16 @@ tampering, making it suitable for cybersecurity monitoring and educational use.
 
 ##  Project Structure
 File-Integrity-Checker/
+
 │
 ├── IC.py
+
 └── baselines/
+
     ├── <directory_name>.hash
+    
     └── <directory_name>.lock
+    
 
 ---
 
@@ -61,6 +66,9 @@ python IC.py check <directory_path>
 ## Use Cases
 
 Malware detection
+
 System integrity monitoring
+
 Digital forensics
+
 Cybersecurity lab experiments
