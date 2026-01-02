@@ -34,13 +34,14 @@ tampering, making it suitable for cybersecurity monitoring and educational use.
 File-Integrity-Checker/
 
 │
+
 ├── IC.py
 
 └── baselines/
 
-    ├── <directory_name>.hash
+   ├── <directory_name>.hash
     
-    └── <directory_name>.lock
+   └── <directory_name>.lock
     
 
 ---
